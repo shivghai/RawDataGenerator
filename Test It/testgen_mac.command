@@ -1,12 +1,3 @@
-#!/bin/sh
-
-#  Script.sh
-#  Test It
-#
-#  Created by Shiv Ghai on 7/12/15.
-#  Copyright (c) 2015 sghai. All rights reserved.
-
-
 cd "$(dirname "$0")"
 
 if [ -e "testgen" ]; then

@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Test It
-//
-//  Created by Shiv Ghai on 7/3/15.
-//  Copyright (c) 2015 sghai. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <sstream>

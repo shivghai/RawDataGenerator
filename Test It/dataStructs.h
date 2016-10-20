@@ -1,11 +1,3 @@
-//
-//  dataStructs.h
-//  Test It
-//
-//  Created by Shiv Ghai on 7/11/15.
-//  Copyright (c) 2015 sghai. All rights reserved.
-//
-
 #ifndef Test_It_dataStructs_h
 #define Test_It_dataStructs_h
 
